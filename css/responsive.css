@@ -1,0 +1,37 @@
+@media (min-width: 300px) and (max-width: 767px){
+    .leftsection1 img {
+        width: 100%;
+    }
+    .rightsection1 {
+        padding-right: 0%;
+    }
+    .rightsection1 h1 {
+        font-size: 38px;
+        line-height: 54px;
+        text-align: center;
+    }
+    .rowsectop h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .sec-2right.float-right {
+        float: left!important;
+    }
+    div#section2 h5 {
+        font-size: 23px;
+        margin-top: 10px;
+    }
+    div#section2 p {
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+    .progressbar-own {
+        margin-bottom: 8px;
+    }
+    .sec-2right h2 {
+        font-size: 30px;
+    }
+    #fp-nav {
+        top: 19%;
+    }
+}
